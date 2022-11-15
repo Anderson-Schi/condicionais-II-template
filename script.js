@@ -85,10 +85,7 @@ if(num%2 === 0 && num%3 === 0){
         case 30:
         console.log(`O Numero 30 e divisivel por 2 e 3 `);
         break;
-    };
-
-
-
+    }
 
 }else{
     //console.log(`O numero ${num}, nao e divisivel por 2 e por 3`);
